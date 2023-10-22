@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  helm-im-chart:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-10-22T09:25:06.739953744Z"
+    description: A Helm chart for Kubernetes
+    digest: db73d9e7e6bc98ebbe6c8b9ab4cc865503366a28105afed5f9936889f60f3c10
+    name: helm-im-chart
+    type: application
+    urls:
+    - https://github.com/imykytyuk/helm-im-repo/releases/download/helm-im-chart-0.1.0/helm-im-chart-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-10-22T09:25:06.740243443Z"
